@@ -1,16 +1,56 @@
-## Hi there 👋
 
-<!--
-**ayushisangoi/AyushiSangoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ayushi Sangoi  
+### NSF Fellow | Data Specialist | PhD Candidate | ML Researcher | Engineer  
+Turning complex data into clear, actionable insights.
 
-Here are some ideas to get you started:
+I work at the intersection of **biomedical engineering, neuroscience, machine learning, and large‑scale data engineering**. With 7+ years of experience across clinical trials, neuroimaging, predictive modeling, teaching, and analytics, I build pipelines and solutions that turn raw data into meaningful decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Core Focus Areas
+- Data Engineering & Pipelines  
+- Machine Learning & Predictive Modeling  
+- Neuroimaging Analytics (fMRI, physiological signals)  
+- Clinical Data Processing (REDCap, MATLAB, R, Python)  
+- Statistical Analysis & Decision Modeling  
+- Data Visualization & Dashboarding  
+- Teaching & Curriculum Design  
+
+---
+
+## 🚀 Featured Projects
+### 🔹 **1. neuro-fMRI-pipeline**
+End-to-end functional MRI preprocessing + statistical modeling pipeline (Python, MATLAB).  
+*Tools:* NiLearn, FSL, NumPy, SciPy, Jupyter
+
+### 🔹 **2. clinical-trial-analytics**
+Analysis of randomized clinical trial data using Python, R, and statistical modeling.  
+*Includes:* power analysis, regression models, neuro-behavioral metrics.
+
+### 🔹 **3. data-engineering-etl**
+Cloud-based ETL pipeline for multimodal datasets.  
+*Tools:* Python, SQL, AWS, airflow-style design.
+
+### 🔹 **4. student-success-dashboard**
+Interactive analytics dashboard built for student engagement analysis.  
+*Tools:* Google Sheets + Scripts, Tableau, Python.
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Python, R, MATLAB, SQL, JavaScript  
+**Tools:** AWS, Jupyter, Tableau, REDCap, SPSS, Jamovi  
+**ML:** Scikit-learn, TensorFlow, StatsModels  
+**Neuro:** NiLearn, MNE, FSL, SPM  
+**Other:** Git, REST APIs, Pandas, NumPy  
+
+---
+
+## 🌱 What I'm Learning
+- Deep learning for neuroimaging  
+- Large-scale cloud data engineering  
+- UX research for data dashboards  
+
+---
+
+## 📫 Connect With Me
+**LinkedIn:** https://www.linkedin.com/in/ayushisangoi  
+**Email:** ayushisangoi@gmail.com
