@@ -15,13 +15,26 @@ I work at the intersection of **biomedical engineering, neuroscience, machine le
 
 ---
 
-## 🛠 Tech Stack 
-**Languages:** Python, R, MATLAB, SQL, Java, C/C++, JavaScript, HTML/CSS, ARM Assembly, Bash, Ruby
-**Tools:** AWS, Azure, Docker, Jupyter, Tableau, Spark, Hadoop, MapReduce, SLURM (HPC), CockroachDB, VirtualBox, Git, REDCap, SPSS, Jamovi
-**ML & Analytics:** Scikit‑learn, TensorFlow, PyTorch, StatsModels, XGBoost, Random Forests, SVM, K‑means, clustering, mixed‑effects modeling, PCA/ICA/GLM, MLOps validation, RAG pipelines, OCR
-**Systems / Backend:** Distributed systems, multithreaded pipelines, HPC workflows, Linux/Unix systems, REST APIs, containerized services, SQL optimization, large‑scale data processing, ETL pipelines
-**Neuro & Scientific:** SPM12, FSL, AFNI, fMRI preprocessing pipelines, multimodal signal analysis, experimental design, computational neuroscience workflows
-**Other:** Pandas, NumPy, SciPy, BeautifulSoup, Selenium, LangChain, data visualization, high‑performance computing, scientific workflow automation
+## 🛠 Tech Stack
+
+### 🧩 Languages  
+Python • R • MATLAB • SQL • Java • C/C++ • JavaScript • HTML/CSS • ARM Assembly • Bash • Ruby
+
+### 🧰 Tools  
+AWS • Azure • Docker • Jupyter • Tableau • Spark • Hadoop • MapReduce • SLURM (HPC) • CockroachDB • VirtualBox • Git • REDCap • SPSS • Jamovi
+
+### 🤖 ML & Analytics  
+Scikit‑learn • TensorFlow • PyTorch • StatsModels • XGBoost • Random Forests • SVM • K‑means • Clustering • Mixed‑effects modeling • PCA/ICA/GLM • MLOps validation • RAG pipelines • OCR
+
+### 🏗 Systems / Backend  
+Distributed systems • Multithreaded pipelines • HPC workflows • Linux/Unix systems • REST APIs • Containerized services • SQL optimization • Large‑scale data processing • ETL pipelines
+
+### 🧠 Neuro & Scientific  
+SPM12 • FSL • AFNI • fMRI preprocessing pipelines • Multimodal signal analysis • Experimental design • Computational neuroscience workflows
+
+### 📊 Other  
+Pandas • NumPy • SciPy • BeautifulSoup • Selenium • LangChain • Data visualization • High‑performance computing • Scientific workflow automation
+
 ---
 
 ## 🌱 What I'm Learning
